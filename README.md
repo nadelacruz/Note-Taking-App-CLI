@@ -23,39 +23,39 @@ To run the app from the terminal, navigate to the directory containing the scrip
 python run.py create "Meeting Notes" "Today we discussed the new project timeline and assigned tasks to team members."
 
 ```
-* python script_name.py read note_id: reads a note with the given ID from the database file and displays its title, summary, and content. For example: 
+* python run.py read note_id: reads a note with the given ID from the database file and displays its title, summary, and content. For example: 
 ```python
-python script_name.py read 1
+python run.py read 1
 
 ```
-* python script_name.py update note_id --title new_title --content new_content: updates the title and content of a note with the given ID in the database file. For example: 
+* python run.py update note_id --title new_title --content new_content: updates the title and content of a note with the given ID in the database file. For example: 
 ```python
-python script_name.py update 1 --title "Updated Meeting Notes" --content "During the meeting, we decided to prioritize task A and pushed back the deadline for task B."
+python run.py update 1 --title "Updated Meeting Notes" --content "During the meeting, we decided to prioritize task A and pushed back the deadline for task B."
 
 ```
-* python script_name.py delete note_id: deletes a note with the given ID from the database file. For example:
+* python run.py delete note_id: deletes a note with the given ID from the database file. For example:
 ```python
-python script_name.py delete 1
+python run.py delete 1
 
 ```
-* python script_name.py update note_id --title new_title --content new_content: updates the title and content of a note with the given ID in the database file. For example: 
+* python run.py update note_id --title new_title --content new_content: updates the title and content of a note with the given ID in the database file. For example: 
 ```python
-python script_name.py update 1 --title "Updated Meeting Notes" --content "During the meeting, we decided to prioritize task A and pushed back the deadline for task B."
+python run.py update 1 --title "Updated Meeting Notes" --content "During the meeting, we decided to prioritize task A and pushed back the deadline for task B."
 
 ```
-* python script_name.py delete note_id: deletes a note with the given ID from the database file. For example:
+* python run.py delete note_id: deletes a note with the given ID from the database file. For example:
 ```python
-python script_name.py delete 1
+python run.py delete 1
 
 ```
-* python script_name.py search keyword: searches for notes containing the given keyword in their titles or content. For example:
+* python run.py search keyword: searches for notes containing the given keyword in their titles or content. For example:
 ```python
-python script_name.py search "project timeline."
+python run.py search "project timeline."
 
 ```
-* python script_name.py list: lists all notes stored in the database file. For example:
+* python run.py list: lists all notes stored in the database file. For example:
 ```python
-script_name.py list
+run.py list
 
 ```
 
