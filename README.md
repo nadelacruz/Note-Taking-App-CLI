@@ -7,7 +7,7 @@ This app allows users to create, read, update, and delete notes stored in a data
 Use the command:
 
 ```bash
-git clone https://github.com/nadelacruz/Note-Taking-App.git && cd Note-Taking-App && python3 -m venv myenv && source /myenv/bin/activate && python install_reqs.py
+git clone https://github.com/nadelacruz/Note-Taking-App.git && cd Note-Taking-App && python3 -m venv myenv && source myenv/bin/activate && python install_reqs.py
 ```
 
 ### To set the API_KEY environment variable, you can run the following command in your terminal or command prompt:
