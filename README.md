@@ -38,16 +38,6 @@ python run.py update 1 --title "Updated Meeting Notes" --content "During the mee
 python run.py delete 1
 
 ```
-* python run.py update note_id --title new_title --content new_content: updates the title and content of a note with the given ID in the database file. For example: 
-```python
-python run.py update 1 --title "Updated Meeting Notes" --content "During the meeting, we decided to prioritize task A and pushed back the deadline for task B."
-
-```
-* python run.py delete note_id: deletes a note with the given ID from the database file. For example:
-```python
-python run.py delete 1
-
-```
 * python run.py search keyword: searches for notes containing the given keyword in their titles or content. For example:
 ```python
 python run.py search "project timeline."
