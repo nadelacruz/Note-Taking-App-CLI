@@ -1,7 +1,3 @@
-## Contributing
-
-Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 ![Creative Commons License Logo](https://licensebuttons.net/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")
