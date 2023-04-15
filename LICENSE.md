@@ -1,6 +1,13 @@
+## Contributing
+
+Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
+
 ## License
-This work is licensed under a [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
-This license allows you to use, modify, and distribute the licensed work for any purpose, without needing to obtain permission from the copyright holder or give attribution to the original author(s). The work is effectively in the public domain.
+![Creative Commons License Logo](https://licensebuttons.net/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")
 
-For more information about this license, please visit the [Creative Commons website](https://creativecommons.org/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+This license allows you to use, modify, and distribute the licensed work for non-commercial purposes, as long as you give attribution to the original author(s). If you wish to use the work for commercial purposes, you must obtain permission from the copyright holder(s) and pay any required fees.
+
+For more information about this license, please visit the [Creative Commons website](https://creativecommons.org/licenses/by-nc/4.0/).
